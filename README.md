@@ -27,6 +27,7 @@ Learning Activities & Resources
 Engaged with numerous WordPress tutorials to enhance my skills in website management and customization:
 
 https://www.youtube.com/watch?v=h5VZwTLdgdM
+
 https://www.youtube.com/watch?v=uA8FJekfy5U
 
 Estimated Hours:
